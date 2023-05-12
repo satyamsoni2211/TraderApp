@@ -23,7 +23,7 @@
                 </div>
             </v-card>
             <p text="coolgray sm center" class="mt-4">
-                © 2020-2023 <b>SenecaGlobal</b> Software Private Limited
+                © 2020-2023 <b>FooGlobal</b> Software Private Limited
             </p>
         </div>
     </div>
